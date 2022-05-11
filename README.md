@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oleksandr, I’m interested in Python
+- 👋 Hi, I’m Oleksandr and I’m interested in Python :)
 
 
 <!---
